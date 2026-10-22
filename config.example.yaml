@@ -1,0 +1,19 @@
+# Copie para config.yaml e ajuste no seu ambiente (config.yaml não vai para o Git).
+
+traccar_url: "http://127.0.0.1:5055/"
+device_id: "DEVICE001"
+interval_ignition_on: 5
+interval_ignition_off: 60
+osrm_base_url: "https://router.project-osrm.org"
+traffic_profile: "normal"
+default_lat: -22.7487
+default_lon: -48.5837
+send_while_paused: false
+odometer_base_km: 0
+cell_mcc: 724
+cell_mnc: 5
+cell_lac: 43714
+cell_cid: 45086
+cell_wifi_mac: ""
+driver_unique_id: ""
+map_style: osm
